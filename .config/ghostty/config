@@ -1,0 +1,13 @@
+theme = ayu
+# theme = Retro
+
+font-size = 11
+
+cursor-style = block
+shell-integration-features = no-cursor
+mouse-hide-while-typing = true
+
+window-height = 25
+window-width = 80
+window-padding-balance = true
+# window-save-state = always
