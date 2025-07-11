@@ -1,0 +1,7 @@
+theme = "kanagawa"
+
+[keys.normal]
+D = ["kill_to_line_end"]
+
+[editor.soft-wrap]
+enable = true
