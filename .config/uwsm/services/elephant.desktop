@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Elephant
+Exec=elephant
+X-UWSM-Autostart=true
