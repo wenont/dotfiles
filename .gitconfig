@@ -1,0 +1,7 @@
+[user]
+	email = wensheng.zhang@rwth-aachen.de
+	name = Wensheng Zhang
+[alias]
+	lol = log --all --decorate --oneline --graph
+[core]
+	editor = hx
